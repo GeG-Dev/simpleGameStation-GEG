@@ -1,3 +1,4 @@
+Photos/IMG5.jpg
 #---------Simple game station V0.1 beta------------
 ENG
  !!Archived!!
