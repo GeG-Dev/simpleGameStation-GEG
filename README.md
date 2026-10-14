@@ -1,5 +1,5 @@
-[](Photos/IMG5)
-[only  board](Photos/IMG1)
+![](Photos/IMG5)
+![only  board](Photos/IMG1)
 
 ---------Simple game station V0.1 beta------------
 ENG
