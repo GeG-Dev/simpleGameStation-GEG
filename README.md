@@ -1,5 +1,7 @@
-(Photos/IMG5.jpg)
-#---------Simple game station V0.1 beta------------
+[](Photos/IMG5)
+[only  board](Photos/IMG1)
+
+---------Simple game station V0.1 beta------------
 ENG
  !!Archived!!
 
